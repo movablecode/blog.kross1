@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to KROSS GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/movablecode/blog.kross1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
